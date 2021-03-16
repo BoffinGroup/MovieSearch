@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "W8KVd64+eDPtS92R7KFB3y4cx2EhBOzivvoZNpNCq5LvbxJjPlusZWZmlgJiORshVJU+qZ5C2OLa5XatfMPOww==",
+  "success": true,
+  "projectFilePath": "C:\\CHIJIOKE\\MoviesTest\\Movies.Domain\\Movies.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\flurl\\3.0.1\\flurl.3.0.1.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\flurl.http\\3.0.1\\flurl.http.3.0.1.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\chijioke.madekwe\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

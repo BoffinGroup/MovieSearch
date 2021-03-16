@@ -1,0 +1,11 @@
+C:\CHIJIOKE\MoviesTest\Movies.Domain\bin\Debug\net5.0\Movies.Domain.deps.json
+C:\CHIJIOKE\MoviesTest\Movies.Domain\bin\Debug\net5.0\Movies.Domain.dll
+C:\CHIJIOKE\MoviesTest\Movies.Domain\bin\Debug\net5.0\ref\Movies.Domain.dll
+C:\CHIJIOKE\MoviesTest\Movies.Domain\bin\Debug\net5.0\Movies.Domain.pdb
+C:\CHIJIOKE\MoviesTest\Movies.Domain\obj\Debug\net5.0\Movies.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CHIJIOKE\MoviesTest\Movies.Domain\obj\Debug\net5.0\Movies.Domain.AssemblyInfoInputs.cache
+C:\CHIJIOKE\MoviesTest\Movies.Domain\obj\Debug\net5.0\Movies.Domain.AssemblyInfo.cs
+C:\CHIJIOKE\MoviesTest\Movies.Domain\obj\Debug\net5.0\Movies.Domain.csproj.CoreCompileInputs.cache
+C:\CHIJIOKE\MoviesTest\Movies.Domain\obj\Debug\net5.0\Movies.Domain.dll
+C:\CHIJIOKE\MoviesTest\Movies.Domain\obj\Debug\net5.0\ref\Movies.Domain.dll
+C:\CHIJIOKE\MoviesTest\Movies.Domain\obj\Debug\net5.0\Movies.Domain.pdb
